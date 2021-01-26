@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fccec08d061871960413dfc67e5476210c62c4e3",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-01-26 16:41:17",
+    "files": 1,
+    "merge": false,
+    "message": "gh actions: add windows R-devel #34\n"
+  },
+  "remote": "https://github.com/ropensci/wellknown",
+  "pkg": "wellknown"
+}
